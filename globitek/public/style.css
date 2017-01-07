@@ -1,0 +1,14 @@
+.form-group {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin-top: 40px;
+}
+
+.errors li {
+    color: red;
+}
+
+button {
+    margin-top: 20px;
+}
