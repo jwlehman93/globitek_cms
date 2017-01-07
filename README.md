@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/Y6LM1YO.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/Y6LM1YO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 My largest problem was figuring out exactly how SQL/mysql works. I also at times had a hard time figuring out exactly
