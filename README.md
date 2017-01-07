@@ -29,9 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[Imgur](http://i.imgur.com/Y6LM1YO.gifv)
-<img src='http://imgur.com/Y6LM1YO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+[Imgur Walkthrough](http://i.imgur.com/Y6LM1YO.gifv)
 ## Notes
 My largest problem was figuring out exactly how SQL/mysql works. I also at times had a hard time figuring out exactly
 how my apache server should be working.
