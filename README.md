@@ -1,4 +1,4 @@
-# Pre-work - *Globitek CMS Week 1*
+# *Globitek CMS Week 1*
 
 **Globitek CMS** is a CMS that allows users to sign up with validation.
 
